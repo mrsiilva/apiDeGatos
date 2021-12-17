@@ -9,6 +9,9 @@ Ferramentas utilizadas 🛠
 </ul>
 <hr>
 
+<h3>Antes de mais nada, gostaria de avisar que voces também conseguem ver essa api sendo consumida no meu repositorio ConsumoDeApi aqui do github!</h3>
+<hr>
+
 <h3>Adicionando novo gato:</h3>
 Acesse a rota http://localhost:4567/cat
 Em formato json adicione nome e raça:
