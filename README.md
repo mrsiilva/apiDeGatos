@@ -1,4 +1,4 @@
-<h1>API de Gatos 🐱</h1>
+<h1>API Gatos 🐱</h1>
 
 Api simples, onde é possível cadastrar e deletar gatinhos.<hr>
 Ferramentas utilizadas 🛠
